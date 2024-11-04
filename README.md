@@ -15,4 +15,3 @@ To install the **Math Quiz Game**, you can use `pip` to install directly from th
 
 ```bash
 pip install git+https://github.com/vivitar39/dsss_hw2.git
-
